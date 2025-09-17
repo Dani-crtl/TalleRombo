@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rhombo.console", "rhombo.console\rhombo.console.csproj", "{6E33F857-B97A-4340-91C8-6FAEDEA46126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhombo.core", "..\Rhombo.core\Rhombo.core.csproj", "{FE3D6719-4247-4676-BB0B-D1C699BE8DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E33F857-B97A-4340-91C8-6FAEDEA46126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E33F857-B97A-4340-91C8-6FAEDEA46126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E33F857-B97A-4340-91C8-6FAEDEA46126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E33F857-B97A-4340-91C8-6FAEDEA46126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3D6719-4247-4676-BB0B-D1C699BE8DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3D6719-4247-4676-BB0B-D1C699BE8DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3D6719-4247-4676-BB0B-D1C699BE8DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3D6719-4247-4676-BB0B-D1C699BE8DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C72908-D236-4A03-918A-B1A8DE203F2C}
+	EndGlobalSection
+EndGlobal
